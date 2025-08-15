@@ -89,6 +89,3 @@ Licensed under the **MIT License** – you can freely use and modify this projec
 If you found this helpful, please ⭐ the repo to show your support!
 
 ---
-
-If you want, I can also **extract actual plots from your notebook** and insert them into the README so it looks even more authentic and professional.
-Do you want me to do that?
